@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 3472b254820b15e48960d03cf2644ea6
+  - enabled: 1
+    path: Assets/Scenes/SecondPage.unity
+    guid: 641bbf910b54eb2458323d89dd1d603f
+  - enabled: 1
+    path: Assets/Scenes/Floor2.unity
+    guid: 7dd1acd0f2b3efe48a2b30801285c0a8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cc969cf2e5f1e2343b838b64894a4ab8, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e999daf33a4e3da4d93ebd4e8220e737, type: 2}
